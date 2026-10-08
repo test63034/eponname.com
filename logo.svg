@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" width="520" height="200">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff6b6b"/><stop offset="25%" stop-color="#feca57"/>
+      <stop offset="50%" stop-color="#48dbfb"/><stop offset="75%" stop-color="#1dd1a1"/>
+      <stop offset="100%" stop-color="#5f27cd"/>
+    </linearGradient>
+  </defs>
+  <circle cx="90" cy="100" r="62" fill="none" stroke="url(#g1)" stroke-width="10"/>
+  <path d="M50 130 L90 55 L130 130 Z" fill="url(#g1)"/>
+  <rect x="78" y="100" width="24" height="30" fill="#0b1026"/>
+  <text x="175" y="90" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" fill="url(#g1)">EGBANNAME</text>
+  <text x="177" y="128" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#ffffff">Construction &amp; Services</text>
+  <text x="177" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#ffe">Multi-Contractor Project Tracker</text>
+</svg>
